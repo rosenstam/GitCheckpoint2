@@ -1,0 +1,6 @@
+Answers:
+1: git log
+2: git status
+3: git init
+
+(Ps. tyckte först att frågorna såg lustiga ut, men svar råkade vara med på slutet se snippet.png)
